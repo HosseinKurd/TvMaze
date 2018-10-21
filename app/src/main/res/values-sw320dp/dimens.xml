@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 320 DP -->
+    <!-- 2X -->
+    <dimen name="movie_image_width">152dp</dimen>
+    <dimen name="movie_image_height">224dp</dimen> <!--223.52941172-->
+    <dimen name="movie_image_margin_sides">2dp</dimen>
+</resources>

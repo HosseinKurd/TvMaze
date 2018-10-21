@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TVMaze</string>
+    <string name="again">دوباره</string>
+    <string name="connect_to_internet">ارتبات خود را با اینترنت برقرار کنید</string>
+</resources>
